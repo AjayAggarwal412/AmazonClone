@@ -2,8 +2,6 @@
 
 This is a fully functional e-commerce web application inspired by Amazon, built using React.js, Commerce.js, and Firebase. It allows users to browse products, add items to their cart, and complete the checkout process.
 
-![Amazon Clone Screenshot](screenshot.png)
-
 ## Demo
 You can view a live demo of this project at https://amazonclone123.netlify.app/.
 

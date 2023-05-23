@@ -17,7 +17,7 @@ You can view a live demo of this project at https://amazonclone123.netlify.app/.
 
 ![image](https://github.com/AjayAggarwal412/AmazonClone/assets/73030724/f89cdc35-4fb2-4097-bfbb-024ce8d1c356)
 
-After login, User email id is displayed in navbar
+After login, User email id is displayed in the navbar
 
 ![image](https://github.com/AjayAggarwal412/AmazonClone/assets/73030724/0309525b-19c7-4915-8f80-1d685a31f3dc)
 

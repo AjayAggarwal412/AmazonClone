@@ -3,12 +3,12 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 // import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCiixXtMJndJG_Vet4Lece6bT3eUvxW0jA",
-  authDomain: "challenge-df249.firebaseapp.com",
-  projectId: "challenge-df249",
-  storageBucket: "challenge-df249.appspot.com",
-  messagingSenderId: "740751327210",
-  appId: "1:740751327210:web:e4d6b0340b75d6fa5bbc93",
+  apiKey: process.env.REACT_APP_apiKey,
+  authDomain: process.env.REACT_APP_authDomain,
+  projectId: process.env.REACT_APP_projectId,
+  storageBucket: process.env.REACT_APP_storageBucket,
+  messagingSenderId: process.env.REACT_APP_messagingSenderId,
+  appId: process.env.REACT_APP_appId,
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
